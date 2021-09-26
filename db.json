@@ -1,7 +1,74 @@
 {
-    "shorturls": [],
-    "expenses": [],
-    "users": [
+  "shorturls": [],
+  "expenses": [
+    {
+      "title": "New Laptop",
+      "amount": 799,
+      "date": "2021-09-15T00:00:00.000Z",
+      "id": 1
+    },
+    {
+      "title": "Wooden Desk",
+      "amount": 450,
+      "date": "2021-12-20T00:00:00.000Z",
+      "id": 2
+    },
+    {
+      "title": "Car Insurance",
+      "amount": 120,
+      "date": "2020-07-25T00:00:00.000Z",
+      "id": 3
+    },
+    {
+      "title": "Room Renovation",
+      "amount": 1200,
+      "date": "2021-06-12T00:00:00.000Z",
+      "id": 4
+    },
+    {
+      "title": "Bike Service",
+      "amount": 300,
+      "date": "2020-12-18T00:00:00.000Z",
+      "id": 5
+    },
+    {
+      "title": "Playstation 4",
+      "amount": 599,
+      "date": "2019-07-20T00:00:00.000Z",
+      "id": 6
+    },
+    {
+      "title": "Trip to Australia",
+      "amount": 2000,
+      "date": "2019-01-15T00:00:00.000Z",
+      "id": 7
+    },
+    {
+      "title": "Anniversary Gifts",
+      "amount": 500,
+      "date": "2019-03-25T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "title": "Movies Night",
+      "amount": 200,
+      "date": "2021-09-24T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "title": "Sofa set",
+      "amount": 699,
+      "date": "2021-01-20T00:00:00.000Z",
+      "id": 10
+    },
+    {
+      "title": "new TV",
+      "amount": 300,
+      "date": "2019-08-20T00:00:00.000Z",
+      "id": 11
+    }
+  ],
+  "users": [
     {
       "id": 1,
       "first_name": "Justina",
@@ -37,5 +104,5 @@
       "email": "rschapero4@timesonline.co.uk",
       "gender": "Male"
     }
-    ]
+  ]
 }
